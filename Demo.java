@@ -1,4 +1,4 @@
-Class Demo{
+Class Demo.java{
 
 
 }
